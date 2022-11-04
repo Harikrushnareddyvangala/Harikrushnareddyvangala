@@ -9,6 +9,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous person who inspires me most is Elon Musk.
+- Suggestive thoughts: Let's consider all dimensions which exist. the world is the perfect n-dimensional visualization of such considerations. I mean world is collection of all existing dimensions visualiaztion.
 
 <!--
 **Harikrushnareddyvangala/Harikrushnareddyvangala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
