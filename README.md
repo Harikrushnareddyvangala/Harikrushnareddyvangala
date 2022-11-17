@@ -24,3 +24,4 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous person who inspires me most is Elon Musk.
 -->
+<a href="https://app.daily.dev/Harikrushna"><img src="https://api.daily.dev/devcards/86e7fecdfb804ff0afebd8ef0146f2aa.png?r=ikz" width="400" alt="Harikrushnareddy Vangala's Dev Card"/></a>
