@@ -40,4 +40,6 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" align = "center" alt=""/>
+<div id="counter" align="center">
+  <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt=""/>
+</div>
