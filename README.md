@@ -69,7 +69,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https : //profile-counter.glitch.me/{Harikrushnareddyvangala}/count.svg)
 
 
 
