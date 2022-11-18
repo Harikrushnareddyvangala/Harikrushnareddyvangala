@@ -26,4 +26,4 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - ⚡ Fact: The famous person who inspires me most is Elon Musk.
 -->
 
-
+<iframe src="https://giphy.com/embed/2vnId4IaAjIGZd2EWC" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/2vnId4IaAjIGZd2EWC">via GIPHY</a></p>
