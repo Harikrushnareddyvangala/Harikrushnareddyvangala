@@ -67,7 +67,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 <!-- Markdown -->
 
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=advance_hari84)](https://github.com/advance_hari84/github-readme-twitter)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=advance_hari84)]([https://github.com/advance_hari84/github-readme-twitter](https://twitter.com/advance_hari84))
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
