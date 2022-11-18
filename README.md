@@ -67,6 +67,8 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
 
