@@ -33,6 +33,8 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ![Screenshot](reliability-award-special-acknowledgement.png)
 ![Screenshot](work-readiness-skills-competency-achieved.png)
 
+source: https://www.credly.com/users/harikrushnareddy-vangala
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
