@@ -27,7 +27,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - ⚡ Fact: The famous person who inspires me most is Elon Musk.
 -->
 ---
-###  Monash Credits:
+###  Monash University Credits:
 ![Screenshot](effective-communication-skills-competency-achieved.png)
 ![Screenshot](job-search-essentials-competency-achieved.png)
 ![Screenshot](reliability-award-special-acknowledgement.png)
