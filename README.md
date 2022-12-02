@@ -1,5 +1,7 @@
 <a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="200" alt="Harikrushnareddy Vangala's Dev Card"/></a>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="5affe0bd-d789-4d9a-aa69-970314a8b5c9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+
+
 ### Hi there 👋
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
 - 🔭 I’m currently working on my skills and career objectives
