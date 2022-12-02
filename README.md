@@ -29,6 +29,9 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ---
 ### : Monash Credits:
 ![Screenshot](effective-communication-skills-competency-achieved.png)
+![Screenshot](job-search-essentials-competency-achieved.png)
+![Screenshot](reliability-award-special-acknowledgement.png)
+![Screenshot](work-readiness-skills-competency-achieved.png)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
