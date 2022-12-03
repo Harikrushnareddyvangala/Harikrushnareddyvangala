@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="300" alt="Harikrushnareddy Vangala's Dev Card"/></a>
+<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="320" alt="Harikrushnareddy Vangala's Dev Card"/></a>
 
 ### Hi there 👋
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
@@ -23,7 +23,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 💬 Ask me about something you want to know
 - 📫 How to reach me: 📩advance.hari84@gmail.com / 📞+61459491871(WhatsApp), +916300191504 
 - 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
-- 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
+- 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things, follows research papers
 - ⚡ Fact: The famous person who inspires me most is Elon Musk.
 -->
 ---
