@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="320" alt="Harikrushnareddy Vangala's Dev Card"/></a>
+<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="380" alt="Harikrushnareddy Vangala's Dev Card"/></a>
 
 ### Hi there 👋
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
