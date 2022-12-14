@@ -7,7 +7,8 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 👯 I’m looking to collaborate on Python, Java and Data Science projects
 - 🤔 I’m looking for help with Data Science and software development projects
 - 💬 Ask me about something you want to know
-- 📫 How to reach me: 📩advance.hari84@gmail.com / 📞 +916300191504, +919550939478, Keybase: https://keybase.io/harikrushnareddy
+- 📫 How to reach me: 📩advance.hari84@gmail.com / 📞 +916300191504, +919550939478 
+- Keybase: https://keybase.io/harikrushnareddy
 - 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous person who inspires me most is Elon Musk.
