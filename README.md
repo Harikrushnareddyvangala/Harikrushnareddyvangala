@@ -11,7 +11,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - Keybase: https://keybase.io/harikrushnareddy
 - 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
-- ⚡ Fact: The famous person who inspires me most is Elon Musk.
+- ⚡ Fact: The famous person who inspires me most is Elon Musk (CEO of Twitter).
 - Suggestive thoughts: Let's consider all dimensions which exist. the world is the perfect n-dimensional visualization of such considerations. I mean world is collection of all existing dimensions visualiaztion.
 
 <!--
