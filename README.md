@@ -27,6 +27,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ![Screenshot](work-readiness-skills-competency-achieved.png)
 
 source: https://www.credly.com/users/harikrushnareddy-vangala
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
