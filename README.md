@@ -16,19 +16,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - Purely my Thoughts (Don't copy) 😋: 1. Let's consider all dimensions which exist. the world is the perfect n-dimensional visualization of such considerations. I mean world is perfect example of collection of all existing dimensions visualiaztion.
 -  2. Nature has already succeeded creating Intelligence in living beings using Carbon compounds. We(Human beings) are procreating and advancing Intelligence by using Silicon chips. There are two Inferences from above statements; a. Intelligence creation, b. Specifically 14th group elements in periodic table playing keyrole in making intelligence (carbon 'C' and silicon 'Si').
 
-<!--
-**Harikrushnareddyvangala/Harikrushnareddyvangala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
-- 🔭 I’m currently working on my skills and career objectives
-- 🌱 I’m currently learning Python and Data Science
-- 👯 I’m looking to collaborate on Python, Java and Data Science projects
-- 🤔 I’m looking for help with Data Science and software development projects
-- 💬 Ask me about something you want to know
-- 📫 How to reach me: 📩advance.hari84@gmail.com / 📞+61459491871(WhatsApp), +916300191504 
-- 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
-- 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things, follows research papers
-- ⚡ Fact: The famous person who inspires me most is Elon Musk.
--->
+
 ---
 ###  Monash University Credits:
 ![Screenshot](effective-communication-skills-competency-achieved.png)
