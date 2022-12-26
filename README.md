@@ -8,7 +8,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 👯 I’m looking to collaborate on Python, Java and Data Science projects
 - 🤔 I’m looking for help with Data Science and software development projects
 - 💬 Ask me about something you want to know
-- 📫 How to reach me: 📩advance.hari84@gmail.com / 📞 +916300191504, +919550939478 
+- 📫 How to reach me: 📩advance.hari84@gmail.com / 📞 +91 6300191504(Primary), +91 9550939478 
 - Keybase: https://keybase.io/harikrushnareddy
 - 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
@@ -40,6 +40,7 @@ source: https://www.credly.com/users/harikrushnareddy-vangala
  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original-wordmark.svg" title="Tensorflow" alt="Tensorflow" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VisualStudio" alt="VisualStudio" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
