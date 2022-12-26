@@ -20,6 +20,10 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 
 ---
+### My Publications 📊📈📰🗞️🔍🖋️:
+  1. Coming soon...
+
+---
 ###  Monash University Credits:
 ![Screenshot](effective-communication-skills-competency-achieved.png)
 ![Screenshot](job-search-essentials-competency-achieved.png)
@@ -101,6 +105,6 @@ source: https://www.credly.com/users/harikrushnareddy-vangala
   </a>
 </div>
 <div id="counter" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
 
