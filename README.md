@@ -85,6 +85,11 @@ source: https://www.credly.com/users/harikrushnareddy-vangala
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
+### Blog posts:
+<!-- BLOG-POST-LIST1:START -->
+<!-- BLOG-POST-LIST1:END -->
+
         
 
 
