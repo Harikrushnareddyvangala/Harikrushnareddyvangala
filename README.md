@@ -88,8 +88,8 @@ source: https://www.credly.com/users/harikrushnareddy-vangala
 
 
 ### Blog posts:
-<!-- BLOG-POST-LIST1:START -->
-<!-- BLOG-POST-LIST1:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
         
 
