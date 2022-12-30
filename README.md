@@ -11,6 +11,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 📫 How to reach me: 📩advance.hari84@gmail.com, hvan0009@student.monash.edu / 📞 +91 6300191504(Primary)
 - Keybase: https://keybase.io/harikrushnareddy
 - 🧑‍💻 connect through https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/
+- 📝 my blog: https://hamnbugs.hashnode.dev/
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous person who inspires me most is Elon Musk (CEO of Twitter).
 ---
