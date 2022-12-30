@@ -108,6 +108,9 @@ source: https://www.credly.com/users/harikrushnareddy-vangala
   <a href="https://twitter.com/advance_hari84">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+ <a href="https://hashnode.com/@harikrushnareddy">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt="Profile Views"/>
