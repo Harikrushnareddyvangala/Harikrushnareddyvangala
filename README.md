@@ -8,7 +8,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 👯 I’m looking to collaborate on Python, Java and Data Science projects
 - 🤔 I’m looking for help with Data Science and software development projects
 - 💬 Ask me about something you want to know
-- 📫 How to reach me: 📩 [email](advance.hari84@gmail.com), [Organization email]hvan0009@student.monash.edu / 📞 +91 6300191504(Primary)
+- 📫 How to reach me: 📩 [email](advance.hari84@gmail.com), [Organization email](hvan0009@student.monash.edu) / 📞 +91 6300191504(Primary)
 - Keybase: [Keybase](https://keybase.io/harikrushnareddy)
 - 🧑‍💻 connect through [LinkedIn](https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/), [Discord](https://discord.com/invite/eJHUbbKP)
 - 📝 my blog: [Harikrushnareddy Vangala](https://hamnbugs.hashnode.dev/)
