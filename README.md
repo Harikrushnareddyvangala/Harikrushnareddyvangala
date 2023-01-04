@@ -16,6 +16,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous person who inspires me most is Elon Musk (CEO of Twitter).
 - 📈 ORCID id: [0000-0002-2645-2959](https://orcid.org/0000-0002-2645-2959)
+
 ---
  ### Ideas Stack (Don't copy) 😋: 
   1. Let's consider all dimensions which exist. the world is the perfect n-dimensional visualization of such considerations. I mean world is perfect example of collection of all existing dimensions visualiaztion.
@@ -24,7 +25,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. Coming soon...
+  1. Posting soon...
 
 ---
 ###  Monash University Credits:
