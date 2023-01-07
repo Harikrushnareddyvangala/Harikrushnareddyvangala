@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="380" alt="Harikrushnareddy Vangala's Dev Card"/></a>
+<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="360" alt="Harikrushnareddy Vangala's Dev Card"/></a>
 
 ### Hi There 👋 🙏🏻
 
@@ -91,10 +91,6 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-
-### Blog posts:
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
         
 
