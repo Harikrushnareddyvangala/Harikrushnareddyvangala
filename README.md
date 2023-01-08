@@ -5,8 +5,8 @@
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
 - 🔭 I’m currently working on my skills and career objectives
 - 🌱 I’m currently learning Python and Data Science
-- 👯 I’m looking to collaborate on Python, Java and Data Science projects
-- 🤔 I’m looking for help with Data Science and software development projects
+- 👯 I look forward to collaborate on Python, Java and Data Science projects
+- 🤔 I’m looking for help with Data Science and Psycology related topics which intrigue researchers..(any ideas are welcome.)
 - 💬 Ask me about something you wish to know
 - 📫 How to reach me: 📩 advance.hari84@gmail.com, hvan0009@student.monash.edu 
 - 📞 Contact Number(present): +91 6300191504(Primary)
