@@ -91,9 +91,9 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-https://github-stats.com/api/user/streak/current/:Harikrushnareddyvangala
-        
 
+        
+https://repo-tracker.com/r/gh/Harikrushnareddyvangala/Harikrushnareddyvangala
 
 
 
