@@ -3,8 +3,8 @@
 ### Hi There 👋 🙏🏻
 
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
-- 🔭 I’m currently working on my skills and career objectives
-- 🌱 I’m currently learning Python and Data Science
+- 🔭 I’m currently working on my skills and career objectives with atmost passsion
+- 🌱 I’m currently learning Python, Datasets, Transformer models and other Data Science
 - 👯 I look forward to collaborate on Python, Java and Data Science projects
 - 🤔 I’m looking for help with Data Science and Psycology related topics which intrigue researchers..(any ideas are welcome.)
 - 💬 Ask me something you wish to know in data science field
