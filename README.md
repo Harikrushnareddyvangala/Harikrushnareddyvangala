@@ -16,6 +16,8 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous person who inspires me most is Elon Musk (CEO of Twitter).
 - 📈 ORCID id: [0000-0002-2645-2959](https://orcid.org/0000-0002-2645-2959)
+- [![GitHub Streak](https://streak-stats.demolab.com/?user=Harikrushnareddyvangala)](https://git.io/streak-stats)
+
 
 ---
  ### Ideas Stack and Views (Don't copy) 😋: 
