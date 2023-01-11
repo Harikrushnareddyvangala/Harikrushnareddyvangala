@@ -14,7 +14,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 🧑‍💻 connect through [LinkedIn](https://www.linkedin.com/in/harikrushnareddy-vangala-277aa881/), [Discord](https://discord.com/invite/eJHUbbKP), [Mastodon](https://techhub.social/@Harikrushnareddyvangala)
 - 📝 Find my blog here: [Harikrushnareddy Vangala](https://hamnbugs.hashnode.dev/)
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
-- ⚡ Fact: The famous person who inspires me most is Elon Musk (CEO of Twitter).
+- ⚡ Fact: The famous persons who inspires me most are Elon Musk, Nicole Tesla.
 - 📈 ORCID id: [0000-0002-2645-2959](https://orcid.org/0000-0002-2645-2959)
 
 ---
