@@ -93,8 +93,6 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 
         
-https://repo-tracker.com/r/gh/Harikrushnareddyvangala/Harikrushnareddyvangala
-
 
 
 <div id="header" align="center">
