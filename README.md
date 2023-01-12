@@ -89,8 +89,9 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=advance_hari84)]([https://github.com/advance_hari84/github-readme-twitter](https://twitter.com/advance_hari84))
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
         
 
