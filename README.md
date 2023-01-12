@@ -111,6 +111,9 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
  <a href="https://hashnode.com/@harikrushnareddy">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
+ <a href="https://techhub.social/@Harikrushnareddyvangala">
+    <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
+  </a>
 </div>
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt="Profile Views"/>
