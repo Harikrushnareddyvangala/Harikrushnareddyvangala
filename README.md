@@ -1,5 +1,7 @@
 <a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="360" alt="Harikrushnareddy Vangala's Dev Card"/></a>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Harikrushnareddy+Vangala)](https://git.io/typing-svg)
+
 ### Hi There 👋 🙏🏻
  
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
