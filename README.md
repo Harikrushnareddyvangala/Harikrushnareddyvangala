@@ -98,13 +98,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 <!-- HTML -->
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
- <head>
-    <title>Greeting Message using JavaScript</title> 
-</head>
-<body>
-    <label id="lblGreetings"></label>
-</body>
-
+ 
 <script>
     var myDate = new Date();
     var hrs = myDate.getHours();
@@ -119,7 +113,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
         greet = 'Good Evening';
 
     document.getElementById('lblGreetings').innerHTML =
-        '<b>' + greet + '</b> and welcome to Encodedna.com!';
+        '<b>' + greet + '</b> !';
 </script>        
 
 
