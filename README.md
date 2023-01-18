@@ -122,6 +122,6 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 <div id="counter" align="center">
   <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
-
+ 
 
   
