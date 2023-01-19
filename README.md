@@ -28,7 +28,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. Posting soon...(∵ great things take time...😉)
+  1. Posting soon...(∵ great things take little time.)
 
 ---
 ###  Monash University Credits:
@@ -63,6 +63,8 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Git" title="Matlab" alt="Matlab" width="40" height="40"/>
 </div>
 
 ---
