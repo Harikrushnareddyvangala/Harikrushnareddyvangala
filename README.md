@@ -73,7 +73,6 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harikrushnareddyvangala&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  ![Harikrushnareddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikrushnareddyvangala&theme=dark&show_icons=true)
   
   [![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikrushnareddyvangala)](https://github.com/Harikrushnareddyvangala/github-readme-stats)
   
