@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Harikrushnareddy+Vangala;Aspiring+Data+Scientist)](https://git.io/typing-svg)
 
-### Hello, Nice to Meet You 👋 🙏🏻 
+### Hello, Nice to See You 👋 🙏🏻 
  
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
 - 🔭 I’m currently working on my skills and career objectives with atmost passsion
