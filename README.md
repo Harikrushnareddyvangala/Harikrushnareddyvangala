@@ -28,7 +28,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. soon (∵ great things take little time)
+  1. posting soon (∵ great things take little time)
 
 ---
 ###  Monash University Credits:
