@@ -8,7 +8,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 🔭 I’m currently working on my skills and career objectives with atmost passsion
 - 🌱 I’m currently learning Python, Datasets, Transformer models and other Data Science
 - 👯 I look forward to collaborate on Python, Java and Data Science projects
-- 🤔 I’m looking for help with Data Science and Psycology related topics which intrigue researchers..(any ideas are welcome.)
+- 🤔 looking for help with Data Science and Psycology related topics which intrigue researchers..(any ideas are welcome.)
 - 💬 Ask me something you wish to know in data science field
 - 📫 How to reach me: 📩 advance.hari84@gmail.com, hvan0009@student.monash.edu 
 - 📞 Contact Number(present): +91 6300191504(Primary)
@@ -28,7 +28,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. posting soon (∵ great things take little time)
+  1. 2-papers posting soon  (∵ great things take little time)
 
 ---
 ###  Monash University Credits:
