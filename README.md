@@ -25,10 +25,11 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
   2. Nature has already succeeded creating Intelligence in living beings using Carbon compounds. We(Human beings) are procreating and advancing Intelligence by using Silicon chips. There are two Inferences from above statements; a. Intelligence creation, b. Specifically 14th group elements in periodic table playing keyrole in making intelligence (carbon 'C' and silicon 'Si'). So, next turn is 'Ge' turn for intelligence making. call this as "GeTurn hypothesis".
   3. In the Ocean of universal knowledge, let's consider tides are resultant of an unknown gradient descent function. Our local minima is as limited as a boat depth and technology works as a Ladle. Moreover, Knowledge takes change in shape. On the other hand, The Sun, who rises on horizon takes pure water out of the ocean and paint the sky. So, it can create Rainbows, rain and serve the lives. That's why I always love to see "Aurora".
   4. Without understanding emotional behaviour and studying psycology, AI is incomplete.
+  5. Search engines are the partial and under developed illustrations of AI in present world.
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. 2-papers posting soon  (∵ great things take little time)
+  1. two papers posting soon  (∵ great things take little time)
 
 ---
 ###  Monash University Credits:
