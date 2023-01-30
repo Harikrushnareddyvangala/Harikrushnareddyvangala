@@ -22,7 +22,6 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ---
  ### Ideas Stack and Views (Don't copy) 😋: 
 
-    <div><img src="Datascience.jpg" alt="Data Science stream Venn diagram" align="right" width="100" alt= "datascience"/></div>
   1. Let's consider all dimensions which exist. the world is the perfect n-dimensional visualization of such considerations. I mean world is perfect example of collection of all existing dimensions visualiaztion.
   2. Nature has already succeeded creating Intelligence in living beings using Carbon compounds. We(Human beings) are procreating and advancing Intelligence by using Silicon chips. There are two Inferences from above statements; a. Intelligence creation, b. Specifically 14th group elements in periodic table playing keyrole in making intelligence (carbon 'C' and silicon 'Si'). So, next turn is 'Ge' turn for intelligence making. call this as "GeTurn hypothesis".
   3. In the Ocean of universal knowledge, let's consider tides are resultant of an unknown gradient descent function. Our local minima is as limited as a boat depth and technology works as a Ladle. Moreover, Knowledge takes change in shape. On the other hand, The Sun, who rises on horizon takes pure water out of the ocean and paint the sky. So, it can create Rainbows, rain and serve the lives. That's why I always love to see "Aurora".
