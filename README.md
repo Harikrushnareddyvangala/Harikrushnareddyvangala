@@ -39,7 +39,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ![Screenshot](reliability-award-special-acknowledgement.png)
 ![Screenshot](work-readiness-skills-competency-achieved.png)
 
-source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
+source: ![Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 ---
 
