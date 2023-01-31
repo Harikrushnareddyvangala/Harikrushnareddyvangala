@@ -39,7 +39,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ![Screenshot](reliability-award-special-acknowledgement.png)
 ![Screenshot](work-readiness-skills-competency-achieved.png)
 
-source: ![Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
+source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 ---
 
@@ -70,6 +70,15 @@ source: ![Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 ---
 
+### :Book: My Schools:
+
+   1. Monash University, Clayton Melbourne
+   2. Swinburne University of Technology, Hawthorn Melbourne
+   3. JNTU-Hyderabad
+   4. Alphores Junior College, Karimnagar
+   5. ZP High School, Gollapally
+   6. Bharathi Vidyalayam, Gollapally 
+---
 ### :fire: My Stats :
 
 
