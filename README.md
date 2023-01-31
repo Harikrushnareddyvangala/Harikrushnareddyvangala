@@ -70,7 +70,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
 ---
 
-### :Book: My Schools:
+### :📖 My Schools:
 
    1. Monash University, Clayton Melbourne
    2. Swinburne University of Technology, Hawthorn Melbourne
