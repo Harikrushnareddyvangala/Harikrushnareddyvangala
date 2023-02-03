@@ -18,7 +18,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous persons who inspires me most are Elon Musk, Nicole Tesla.
 - 📈 ORCID id: [0000-0002-2645-2959](https://orcid.org/0000-0002-2645-2959)
-
+ 
 ---
  ### Ideas Stack and Views (Don't copy) 😋: 
 
@@ -74,7 +74,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
    1. Monash University, Clayton Melbourne
    2. Swinburne University of Technology, Hawthorn Melbourne
-   3. JNTU-Hyderabad
+   3. JNTU-Hyderabad [VJIT-JNTU](https://vjit.ac.in/)
    4. Alphores Junior College, Karimnagar ([more info..](http://alphores.com/))
    5. ZP High School, Gollapally
    6. Bharathi Vidyalayam, Gollapally 
