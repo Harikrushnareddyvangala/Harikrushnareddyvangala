@@ -74,7 +74,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
    1. Monash University, Clayton Melbourne
    2. Swinburne University of Technology, Hawthorn Melbourne
-   3. JNTU-Hyderabad [VJIT-JNTU](https://vjit.ac.in/)
+   3. JNTU-Hyderabad ([VJIT-JNTU](https://vjit.ac.in/))
    4. Alphores Junior College, Karimnagar ([more info..](http://alphores.com/))
    5. ZP High School, Gollapally
    6. Bharathi Vidyalayam, Gollapally 
