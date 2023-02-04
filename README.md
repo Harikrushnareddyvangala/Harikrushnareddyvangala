@@ -33,6 +33,9 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
   1. two papers posting soon  (∵ great things take little time)
 
 ---
+### My School Projects🗞️🔍🖋️:
+  1. Monash Assignments are found [here](https://github.com/Harikrushnareddyvangala/Monash)...
+---
 ###  Monash University Credits:
 ![Screenshot](effective-communication-skills-competency-achieved.png)
 ![Screenshot](job-search-essentials-competency-achieved.png)
