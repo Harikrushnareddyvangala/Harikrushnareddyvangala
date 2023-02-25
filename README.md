@@ -30,7 +30,8 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. two papers posting soon  (∵ great things take little time)
+  1. 
+  2. 
 
 ---
 ### My School Projects🗞️🔍🖋️:
