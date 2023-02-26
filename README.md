@@ -30,7 +30,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
-  1. 
+  1. [REVIEW AND ANALYSIS ON DEEP LEARNING BASED APPROACH ON ARTIFICIAL EMOTIONAL INTELLIGENCE]([https://orcid.org/0000-0002-2645-2959](http://ijcrt.org/viewfull.php?&p_id=IJCRT2302302))
   2. 
 
 ---
