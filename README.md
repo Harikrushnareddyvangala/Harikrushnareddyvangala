@@ -31,7 +31,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 ---
 ### My Publications 📊📈📰🗞️🔍🖋️:
   1. [REVIEW AND ANALYSIS ON DEEP LEARNING BASED APPROACH ON ARTIFICIAL EMOTIONAL INTELLIGENCE](http://ijcrt.org/viewfull.php?&p_id=IJCRT2302302) by Harikrushnareddy Vangala
-  2. [under review](under review) by Harikrushnareddy Vangala
+  2. [under review](http://under.review) by Harikrushnareddy Vangala
 
 ---
 ### My School Projects🗞️🔍🖋️:
