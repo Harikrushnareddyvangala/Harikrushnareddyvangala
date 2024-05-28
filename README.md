@@ -24,7 +24,11 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 
   1. Let's consider all dimensions which exist. the world is the perfect n-dimensional visualization of such considerations. I mean world is perfect example of collection of all existing dimensions visualiaztion.
   2. Nature has already succeeded creating Intelligence in living beings using Carbon compounds. We(Human beings) are procreating and advancing Intelligence by using Silicon chips. There are two Inferences from above statements; a. Intelligence creation, b. Specifically 14th group elements in periodic table playing keyrole in making intelligence (carbon 'C' and silicon 'Si'). So, next turn is 'Ge' turn for intelligence making. call this as "GeTurn hypothesis".
-  3. In the Ocean of universal knowledge, let's consider tides are resultant of an unknown gradient descent function. Our local minima is as limited as a boat depth and technology works as a Ladle. Moreover, Knowledge takes change in shape. On the other hand, The Sun, who rises on horizon takes pure water out of the ocean and paint the sky. So, it can create Rainbows, rain and serve the lives. That's why I always love to see "Aurora".
+  3. Imagine the vast ocean of universal knowledge, where the tides are driven by an enigmatic gradient descent function. In this expansive sea, our understanding is like a boat, limited by its depth. Here, technology acts as a ladle, helping us to scoop up insights from these profound waters.
+
+Knowledge is fluid, ever-changing, taking on new shapes and forms. Just as the Sun rises on the horizon, drawing pure water from the ocean to paint the sky with its radiant light, so too does technology illuminate our world. This process creates rainbows and rain, nurturing life and fostering growth.
+
+This transformative journey, where the merging of technology and knowledge creates beauty and sustenance, is akin to witnessing the mesmerizing Aurora. It is a reminder of the wonder and potential that lies within the intersection of AI and human ingenuity.
   4. Without understanding emotional behaviour and studying psycology, AI is incomplete.
   5. Search engines are the partial and under developed illustrations of AI in present world.
 
