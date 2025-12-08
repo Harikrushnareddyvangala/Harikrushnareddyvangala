@@ -133,8 +133,8 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
   <a href="https://www.youtube.com/channel/UCD5S7hZZzAjZgcOuSl-9P4A">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/advance_hari84">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://X.com/advance_hari84">
+    <img src="https://img.shields.io/badge/X-blue?style=for-the-badge&logo=X&logoColor=white" alt="X Badge"/>
   </a>
  <a href="https://hashnode.com/@harikrushnareddy">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
