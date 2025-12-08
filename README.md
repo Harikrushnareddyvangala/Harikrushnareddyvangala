@@ -111,12 +111,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-
-
 <!-- Markdown -->
-
-
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=advance_hari84)]([https://github.com/advance_hari84/github-readme-twitter](https://twitter.com/advance_hari84))
 
 
 <!-- HTML -->
