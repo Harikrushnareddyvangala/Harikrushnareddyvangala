@@ -17,7 +17,7 @@ About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analyt
 - 📝 Find my blog here: [Harikrushnareddy Vangala](https://hamnbugs.hashnode.dev/)
 - 😄 Pronouns: He writes software, cooks food, exercises, takes pictures, grows things
 - ⚡ Fact: The famous persons who inspires me most are Elon Musk, Nicole Tesla.
-- 📈 ORCID id: [0000-0002-2645-2959](https://orcid.org/0000-0002-2645-2959) ![Scan here](ORCID.png)
+- 📈 ORCID id: [0000-0002-2645-2959](https://orcid.org/0000-0002-2645-2959) <img src="ORCID.png" title="ORCID" alt="ORCID" width="40" height="40"/>&nbsp;
  
 ---
  ### Ideas Stack and Views (Don't copy) 😋: 
