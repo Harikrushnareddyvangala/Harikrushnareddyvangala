@@ -97,12 +97,6 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harikrushnareddyvangala&theme=dark&background=000000)](https://git.io/streak-stats)
 
-  
-  [![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harikrushnareddyvangala)](https://github.com/Harikrushnareddyvangala/github-readme-stats)
-  
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harikrushnareddyvangala)](https://github.com/Harikrushnareddyvangala/github-readme-stats)
-
 
 ---
 
