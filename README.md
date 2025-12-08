@@ -134,7 +134,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://X.com/advance_hari84">
-    <img src="https://img.shields.io/badge/X-White?style=for-the-badge&logo=X&logoColor=Black" alt="X Badge"/>
+    <img src="https://img.shields.io/badge/X-Black?style=for-the-badge&logo=X&logoColor=White" alt="X Badge"/>
   </a>
  <a href="https://hashnode.com/@harikrushnareddy">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
