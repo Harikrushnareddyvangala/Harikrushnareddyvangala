@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "right" width="360" alt="Harikrushnareddy Vangala's Dev Card"/></a>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Harikrushnareddy+Vangala;Follow+me+on+LinkedIn)](https://git.io/typing-svg)
 
@@ -144,9 +143,11 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
     <img src="https://img.shields.io/badge/Mastodon-blue?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon Badge"/>
   </a>
 </div>
-<div id="counter" align="center">
+<a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "left" width="360" alt="Harikrushnareddy Vangala's Dev Card"/></a>
+<div id="counter" align="right">
   <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
  
   
+
   
