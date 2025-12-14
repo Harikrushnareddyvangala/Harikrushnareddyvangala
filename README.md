@@ -5,6 +5,7 @@
  
 About me: I am Conscientious, Independent, Motivated, Creative, Flexible, Analytical, Tenacious, Trustworthy, Efficient, Cooperative, Articulate, Assertive, Committed, Positive, Professional, Perceptive, Genuine, Enthusiastic, Composed and Proactive depending on the situation.
 - 🔭 I’m currently working on my skills and career objectives with atmost passion
+- 🔍 **I'm currently looking for PhD Positions around Europe in intense Data related works**
 - 🌱 I’m currently learning Python, Datasets, Transformer models and other Data Science
 - 👯 I look forward to collaborate on Python, Java and Data Science projects
 - 🤔 looking for help with Data Science and Psycology related topics which intrigue researchers..(any ideas are welcome.)
