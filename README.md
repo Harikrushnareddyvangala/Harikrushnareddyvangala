@@ -99,6 +99,8 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Harikrushnareddyvangala&theme=dark&background=000000)](https://git.io/streak-stats)
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Harikrushnareddyvangala&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![PyPI - Version](https://img.shields.io/pypi/v/:packageName)
+
 
 
 ---
