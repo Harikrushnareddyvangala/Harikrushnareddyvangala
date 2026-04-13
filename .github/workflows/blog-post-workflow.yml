@@ -10,7 +10,7 @@ jobs:
     name: Update this repos README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v6
       - uses: harikrushnareddyvangala/blog-post-workflow@master
         with:
           max_post_count: "4"
