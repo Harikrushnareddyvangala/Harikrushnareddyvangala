@@ -142,7 +142,7 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
 </div>
 <a href="https://app.daily.dev/Harikrushna"><img src="https://github.com/Harikrushnareddyvangala/Harikrushnareddyvangala/blob/master/devcard.svg" align =  "left" width="360" alt="Harikrushnareddy Vangala's Dev Card"/></a>
 <div id="counter" align="right">
-  <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&base=4988&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Harikrushnareddyvangala&style=flat-square&color=blue" alt="Profile Views"/>
 </div>
  
   
