@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Harikrushnareddy+Vangala;Follow+me+on+LinkedIn)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Harikrushnareddy+Vangala;Unified-Itelligence Systems)](https://git.io/typing-svg)
 
 ### Hi, Welcome to my GitHub Page 👋 🙏🏻 
  
