@@ -86,9 +86,9 @@ source: [Credly Link](https://www.credly.com/users/harikrushnareddy-vangala)
  <img src="https://github.com/devicons/devicon/blob/master/icons/notion/notion-original.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="40" height="40"/>
 </div>
-
+   
 ---
-
+    
 ### 📖 My Schools:
 
    1. Monash University, Clayton Melbourne ([Monash website](https://www.monash.edu/))
